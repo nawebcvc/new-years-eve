@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start-tsc": "tsc-watch",
+    "start-scss": "node-sass -w style.scss style.css"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.2",
+    "tsc-watch": "^6.0.4",
+    "typescript": "^5.1.3"
+  }
+}
